@@ -2,7 +2,7 @@
 
 En notacion de Backs-Naur
 
-![Icono GDM](./images/gdm.png VIVA Gnome 3 shell)
+![icono gdm](./Documentos/apuntes/images/gdm.png VIVA Gnome 3 shell)
 
 #GNOME (3shell)
 
